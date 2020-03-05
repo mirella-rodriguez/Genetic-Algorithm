@@ -16,7 +16,7 @@ To see more detailed information about the main function`select()`please use `?s
 
 `library(devtools)`
 
-`install_github(paste0("sylvia309", '/GA'))`
+`install_github(paste0("mirella067", '/GA'))`
 
 ## Running Tests
 
