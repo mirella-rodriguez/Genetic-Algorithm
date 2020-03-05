@@ -16,7 +16,7 @@ To see more detailed information about the main function`select()`please use `?s
 
 `library(devtools)`
 
-`install_github(paste0("mirella067", '/GA'))`
+`install_github(paste0("mirella067", '/Genetic-Algorithm'))`
 
 ## Running Tests
 
