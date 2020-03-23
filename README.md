@@ -20,12 +20,6 @@ To see more detailed information about the main function`select()`please use `?s
 
 ## Running Tests
 
-Before running tests, ensure your working directory is in the upper folder of GA. If not you can run the code:
-
-`setwd('..')`
-
-Once you are in the folder above:
-
 `devtools::test('GA')`
 
 ## Authors
